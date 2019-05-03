@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
+	{ "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
+	{ "keys": ["ctrl+e", "ctrl+r"], "command": "reindent" },
+]

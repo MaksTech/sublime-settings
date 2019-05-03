@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include flex-direction(${1:column});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ifd</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass, source.scss</scope>
+	<description>@include flex-direction</description>
+</snippet>

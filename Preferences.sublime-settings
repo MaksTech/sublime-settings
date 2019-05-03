@@ -1,0 +1,52 @@
+{
+	"trim_trailing_white_space_on_save": true,
+
+	"ensure_newline_at_eof_on_save": true,
+
+	"trim_automatic_white_space": false,
+
+	"scroll_past_end": true,
+
+	"show_encoding": true,
+
+	"font_size": 8,
+
+	"tab_size": 3,
+
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules/**",
+		"bower_components/**"
+	],
+
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"node_modules/**",
+		"bower_components/**",
+		"/vendor/**"
+	],
+
+	"material_theme_small_tab": true,
+
+	"material_theme_tabs_autowidth": true,
+
+	"theme": "Material-Theme-Darker.sublime-theme",
+
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+
+	"afn_valid_scopes":["string","css","sass","less","scss","text.blade","source.php"],
+}

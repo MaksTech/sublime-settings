@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+k", "super+t"], "command": "title_case" },
+	{ "keys": ["super+ctrl+b"], "command": "sftp_browse_server" },
+	{ "keys": ["super+ctrl+n"], "command": "sftp_last_server" }
+]

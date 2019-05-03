@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"ayu",
+		"BracketHighlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"HTML5",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Materialize",
+		"Origami",
+		"Package Control",
+		"Phpcs",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Terminal"
+	]
+}
