@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[@foreach(\$${1:variable} as \$${2:key}${3: => \$${4:value}})
+	$0
+@endforeach]]></content>
+	<tabTrigger>foreach</tabTrigger>
+	<scope>text.blade</scope>
+	<description>Laravel @foreach</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[@php
+	$0
+@endphp]]></content>
+	<tabTrigger>php</tabTrigger>
+	<scope>text.blade</scope>
+	<description>Laravel @php</description>
+</snippet>

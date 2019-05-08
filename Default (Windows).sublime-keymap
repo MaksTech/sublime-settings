@@ -2,4 +2,9 @@
 	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
 	{ "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
 	{ "keys": ["ctrl+e", "ctrl+r"], "command": "reindent" },
+
+	{ "keys": ["ctrl+shift+alt+d", "ctrl+shift+alt+s"], "command": "show_scope_name" },
+
+	{ "keys": ["ctrl+shift+alt+t"], "command": "open_terminal" },
+	{ "keys": ["ctrl+shift+t"], "command": "open_terminal_project_folder" }
 ]

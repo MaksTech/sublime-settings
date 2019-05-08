@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include justify-content(${1:center});]]></content>
+	<tabTrigger>ijc</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>@include justify-content</description>
+</snippet>

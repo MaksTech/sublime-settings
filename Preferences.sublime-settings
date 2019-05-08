@@ -1,18 +1,4 @@
 {
-	"trim_trailing_white_space_on_save": true,
-
-	"ensure_newline_at_eof_on_save": true,
-
-	"trim_automatic_white_space": false,
-
-	"scroll_past_end": true,
-
-	"show_encoding": true,
-
-	"font_size": 8,
-
-	"tab_size": 3,
-
 	"binary_file_patterns":
 	[
 		"*.jpg",
@@ -31,7 +17,14 @@
 		"node_modules/**",
 		"bower_components/**"
 	],
-
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
 	"index_exclude_patterns":
 	[
 		"*.log",
@@ -39,14 +32,12 @@
 		"bower_components/**",
 		"/vendor/**"
 	],
-
 	"material_theme_small_tab": true,
-
 	"material_theme_tabs_autowidth": true,
-
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"tab_size": 3,
 	"theme": "Material-Theme-Darker.sublime-theme",
-
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-
-	"afn_valid_scopes":["string","css","sass","less","scss","text.blade","source.php"],
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true
 }
