@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[@switch(\$${1:variable})
+	@case('${2:1}')
+		$3
+		@break
+	$0
+	@default
+		$4
+@endswitch]]></content>
+	<tabTrigger>switch</tabTrigger>
+	<scope>text.blade</scope>
+	<description>Laravel @switch</description>
+</snippet>
