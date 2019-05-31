@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@include letter-spacing(${1:spacing});]]></content>
+	<tabTrigger>ils</tabTrigger>
+	<scope>source.sass, source.scss</scope>
+	<description>@include letter-spacing (Adobe XD Character Spacing)</description>
+</snippet>
