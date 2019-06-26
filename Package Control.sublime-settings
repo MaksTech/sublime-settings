@@ -35,6 +35,8 @@
 		"SublimeLinter",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"Terminal"
+		"Terminal",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
